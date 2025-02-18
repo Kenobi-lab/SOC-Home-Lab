@@ -138,7 +138,7 @@ splunk status
 ###  Active Directory Setup
 
 1. Domain Controller 60 GB/split virtual disks
-2. Install VMWare Tools
+2. Install VM Tools
 3. Change PC Name to XYZ
 4. Open Server Manager
 5. Navigate to Manage > Add Roles and Features
